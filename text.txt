@@ -1,1 +1,17 @@
 first file
+
+tips to install
+
+1 - On terminal, type:
+
+winget install Microsoft.DotNet.SDK.8
+
+This will install the dotnet SDK
+
+2 - Create a folder, open this folder in vscode, open the terminal and type:
+
+dotnet new console
+dotnet add package Microsoft.AnalysisServices.NetCore.retail.amd64 --version 19.76.0
+
+This will create a project and install all the needed libraries and dependencies
+
