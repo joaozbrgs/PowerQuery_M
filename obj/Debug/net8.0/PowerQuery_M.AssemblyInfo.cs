@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerQuery_M")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24132618787f85c9a37ab7ec9bc2b3e07a175c0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2efb07670229feed21d5307b3925033c6ba4ba48")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerQuery_M")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerQuery_M")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
